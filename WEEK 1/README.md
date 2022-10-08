@@ -12,9 +12,9 @@
 **##Inference:** Impotance of HDL made understand its needs in electronics domain and Verilog Vs VHDL link made me choose a target Language and Finally RTL video made me understand the basics of RTL.
 **##Result**: Successfully all The materials were watched and understood.
 
-**#TARGET LANGUAGE:**
+**TARGET LANGUAGE:**
 **##Description**: To choose a targeted language after watching the materials and post the same in G Classroom
 **##Inference**:VHDL Vs Verilog was understood.
-**##Result**: Picked a target Language
+**##Result**: I Choose **VERILOG** as my Target Language
 
 
