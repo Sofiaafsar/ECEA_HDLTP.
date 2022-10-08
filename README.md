@@ -1,7 +1,8 @@
 # ECEA_HDLTP.
-<img width="655" alt="Screenshot 2022-10-07 223729" src="https://user-images.githubusercontent.com/115290901/194690541-f34ae292-d64f-41c1-8d76-1e6905201984.png">
-<img width="652" alt="Screenshot 2022-10-07 223249" src="https://user-images.githubusercontent.com/115290901/194690547-9362e70d-eae4-4173-aa14-171fd4bcdbad.png">
-<img width="395" alt="Screenshot 2022-10-07 222243" src="https://user-images.githubusercontent.com/115290901/194690551-af2e1363-b0da-43d0-952d-491f7f0519c9.png">
-<img width="296" alt="Screenshot 2022-10-07 222223" src="https://user-images.githubusercontent.com/115290901/194690556-f7aea8f8-638f-44c5-a30b-e06469f378ff.png">
-<img width="649" alt="Screenshot 2022-10-07 222958" src="https://user-images.githubusercontent.com/115290901/194690559-6efdb9aa-351b-4767-9a36-417e9b6cb048.png">
-<img width="643" alt="Screenshot 2022-10-07 222617" src="https://user-images.githubusercontent.com/115290901/194690560-937488b8-06f2-4f4a-a156-6ed09ee68519.png">
+<img width="395" alt="1" src="https://user-images.githubusercontent.com/115290901/194691172-a8596bb2-36b3-4edb-b7a7-ac66854a0d34.png">
+<img width="296" alt="2" src="https://user-images.githubusercontent.com/115290901/194691180-171824a6-a4ca-4f5f-9abd-6d0317635c2a.png">
+<img width="652" alt="3" src="https://user-images.githubusercontent.com/115290901/194691205-5057a6e9-3f85-4245-bd5c-542f22884482.png">
+<img width="649" alt="4 (2)" src="https://user-images.githubusercontent.com/115290901/194691212-efea695c-a64d-41f0-9a26-11bc559a0ff1.png">
+<img width="643" alt="5 (2)" src="https://user-images.githubusercontent.com/115290901/194691215-bb7a950c-c4c1-4593-9b5d-e9d769768ccb.png">
+<img width="655" alt="6 (2)" src="https://user-images.githubusercontent.com/115290901/194691221-2745e8ab-ba9a-40cf-a5a3-42d02991560f.png">
+
