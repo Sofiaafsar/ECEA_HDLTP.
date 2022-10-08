@@ -1,7 +1,7 @@
-**#TOOL SETUP**
+#**TOOL SETUP**
 **##description:** Through XILINX I installed the Vivado software and the respective Screenshots of the setup is pasted 
 **##Inference**:I Understood the Setup and environment of the Vivado 
-**##Result**: Succeful installation Of Vivado
+**##Result**: Successful installation Of Vivado
 
 **#RUN SAMPLE FILES**:
 **##Description:** Two Sample files were made to run and the Screen Shots of the Output is pasted.
